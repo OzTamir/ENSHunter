@@ -32,5 +32,6 @@ CONFIG = {
     'max_length': 8,
     'min_common_length': 4,
     'max_words': 25,
-    'output_file': 'wordlist.txt'
+    'output_file': 'wordlist.txt',
+    'rpc_url': 'https://rpc.ankr.com/eth'
 }
