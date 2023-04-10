@@ -1,3 +1,7 @@
+<div style="display: flex; justify-content: center">
+<img src="https://app.ens.domains/static/media/ensIconLogo.19559e18fee46b91eb7a1b152d456d3b.svg"  width="300" height="150">
+</div>
+
 # ENSHunter
 
 This project provides a Python script to check the availability of ENS (Ethereum Name Service) domains based on a given wordlist or a generated wordlist with cool and common words.
